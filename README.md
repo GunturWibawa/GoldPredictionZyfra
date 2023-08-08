@@ -4,11 +4,11 @@ Gold Recovery Predictions at Zyfra IT Solution for Heavy Industries
 
 The project assigned to me for my second integrated project at tenth sprint.
 
-Throughout this sprint, I am striving to synthesize and employ all the insights and knowledge that I have accumulated throughout Sprint 10.
+Throughout this sprint, I am striving to synthesize and employ all the insights and knowledge that I have accumulated throughout Sprint 6 - 9.
 
 # **Project Insight**
 
-Serving as a Data Scientist at Zyfra Company, I was entrusted with the task of devising a predictive model capable of estimating the quantity of gold extractable from gold ore. The data related to both the extraction and purification processes of gold ore were provided as invaluable resources for training the model. The ultimate expectation of this model is to facilitate a more efficient production process.
+As a Data Scientist at Zyfra Company, I was entrusted to design a predictive model that capable to estimate the quantity of gold extractable from gold ore. The data related to both the extraction and purification processes of gold ore were provided as invaluable resources for training the model. The ultimate expectation of this model is to facilitate a more efficient production process.
 
 Upon a deep analysis and construction of the model, the following encapsulates the project's summary:
 
